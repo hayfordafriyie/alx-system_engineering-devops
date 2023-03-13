@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 0-hello_world
+sentence="Hello/n,/nWorld/"
+echo -e $sentence
