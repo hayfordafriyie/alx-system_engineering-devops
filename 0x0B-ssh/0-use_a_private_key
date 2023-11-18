@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# Server details
-host="54.90.42.207"
-user="ubuntu"
-private_key="~/.ssh/school"
-
